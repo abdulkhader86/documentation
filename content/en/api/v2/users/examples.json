@@ -507,7 +507,7 @@
                 "restricted": "boolean"
               },
               "id": "string",
-              "type": "string"
+              "type": "permissions"
             }
           ]
         },
